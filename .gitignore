@@ -1,0 +1,11 @@
+*.venv/
+venv/
+__pycache__/
+*.pt
+*.pth
+*.zip
+*.mp4
+*.avi
+*.log
+*.csv
+*.npy
