@@ -1,4 +1,4 @@
-#RESNET FPS ÖLÜÇ EKLENMİŞ
+#RESNET FPS ÖLÜÇ EKLENMİŞ giuthub tes
 import cv2
 import os
 import torch
